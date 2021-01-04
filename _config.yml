@@ -4,7 +4,7 @@
 
 # Name of your site (displayed in the header)
 名称：您的名字
-
+金毕业设计
 ＃暂时的个人简介或说明（显示在标题中）
 description：某处的Web开发人员
 
@@ -42,7 +42,7 @@ google_analytics:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url:
-http://www.barr.co
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
